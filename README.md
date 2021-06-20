@@ -7,4 +7,4 @@
 - Authorize the bot using this link: [MenoBot](https://discord.com/login?redirect_to=%2Foauth2%2Fauthorize%3Fclient_id%3D819936516368367646%26permissions%3D0%26scope%3Dbot)
 - Select the discord server and test the discord bot.
 
-- Technologies used: Python
+Language used: Python
